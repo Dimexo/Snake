@@ -1,0 +1,7 @@
+GroesseFensterX	700
+GroesseFensterY	700
+XEcke	10
+YEcke	10
+ElementeBreite	40
+Laenge	4
+Wartezeit	500
